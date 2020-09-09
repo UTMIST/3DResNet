@@ -1,3 +1,4 @@
+(View in Raw)
 Reference:
 
 K. Hara, H. Kataoka and Y. Satoh, "Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition," 2017 IEEE International Conference on Computer Vision Workshops (ICCVW), Venice, 2017, pp. 3154-3160, doi: 10.1109/ICCVW.2017.373.
