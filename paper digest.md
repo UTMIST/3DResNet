@@ -1,10 +1,12 @@
 Reference:
+
 K. Hara, H. Kataoka and Y. Satoh, "Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition," 2017 IEEE International Conference on Computer Vision Workshops (ICCVW), Venice, 2017, pp. 3154-3160, doi: 10.1109/ICCVW.2017.373.
+
 
 Related MI Concepts:
 1. Neural Network
 	a) Overfitting:
-		 - too many learnable parameters, insufficient amount of training examples, resulting in failure to generalize from the training set
+		- too many learnable parameters, insufficient amount of training examples, resulting in failure to generalize from the training set
 	b) Shallow vs. Deep:
 		- adding learnable parameters in depth (deeper) is exponentially more effective than adding learnable parameters in layers (wider), in theory
 		- in practice, classic deep neural networks suffer from increasing depth during training due to gradient diminishing, and often have increasing training error
